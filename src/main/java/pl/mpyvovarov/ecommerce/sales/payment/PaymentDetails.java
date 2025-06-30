@@ -1,4 +1,4 @@
-package pl.jkanclerz.ecommerce.sales.payment;
+package pl.mpyvovarov.ecommerce.sales.payment;
 
 public class PaymentDetails {
     private final String url;

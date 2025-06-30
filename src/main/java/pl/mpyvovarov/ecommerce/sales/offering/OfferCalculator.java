@@ -1,6 +1,6 @@
-package pl.jkanclerz.ecommerce.sales.offering;
+package pl.mpyvovarov.ecommerce.sales.offering;
 
-import pl.jkanclerz.ecommerce.sales.cart.CartItem;
+import pl.mpyvovarov.ecommerce.sales.cart.CartItem;
 
 import java.util.List;
 

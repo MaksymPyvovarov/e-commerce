@@ -1,4 +1,4 @@
-package pl.jkanclerz.ecommerce.sales;
+package pl.mpyvovarov.ecommerce.sales;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -7,10 +7,10 @@ import org.springframework.boot.test.web.client.TestRestTemplate;
 import org.springframework.boot.test.web.server.LocalServerPort;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import pl.jkanclerz.ecommerce.catalog.ProductCatalog;
-import pl.jkanclerz.ecommerce.sales.AcceptOfferRequest;
-import pl.jkanclerz.ecommerce.sales.Offer;
-import pl.jkanclerz.ecommerce.sales.ReservationDetails;
+import pl.mpyvovarov.ecommerce.catalog.ProductCatalog;
+import pl.mpyvovarov.ecommerce.sales.AcceptOfferRequest;
+import pl.mpyvovarov.ecommerce.sales.Offer;
+import pl.mpyvovarov.ecommerce.sales.ReservationDetails;
 
 import java.math.BigDecimal;
 

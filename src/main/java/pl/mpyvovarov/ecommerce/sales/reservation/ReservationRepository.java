@@ -1,4 +1,4 @@
-package pl.jkanclerz.ecommerce.sales.reservation;
+package pl.mpyvovarov.ecommerce.sales.reservation;
 
 import java.util.HashMap;
 import java.util.Optional;

@@ -1,4 +1,4 @@
-package pl.jkanclerz.ecommerce.catalog;
+package pl.mpyvovarov.ecommerce.catalog;
 
 import java.util.List;
 

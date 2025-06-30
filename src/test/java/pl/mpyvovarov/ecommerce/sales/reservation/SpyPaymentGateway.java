@@ -1,8 +1,8 @@
-package pl.jkanclerz.ecommerce.sales.reservation;
+package pl.mpyvovarov.ecommerce.sales.reservation;
 
-import pl.jkanclerz.ecommerce.sales.payment.PaymentDetails;
-import pl.jkanclerz.ecommerce.sales.payment.PaymentGateway;
-import pl.jkanclerz.ecommerce.sales.payment.RegisterPaymentRequest;
+import pl.mpyvovarov.ecommerce.sales.payment.PaymentDetails;
+import pl.mpyvovarov.ecommerce.sales.payment.PaymentGateway;
+import pl.mpyvovarov.ecommerce.sales.payment.RegisterPaymentRequest;
 
 public class SpyPaymentGateway implements PaymentGateway {
     Integer requestCount = 0;

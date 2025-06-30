@@ -1,4 +1,4 @@
-package pl.jkanclerz.ecommerce.sales;
+package pl.mpyvovarov.ecommerce.sales;
 
 public class SalesFacade {
     public Offer getCurrentOffer(String customerId) {

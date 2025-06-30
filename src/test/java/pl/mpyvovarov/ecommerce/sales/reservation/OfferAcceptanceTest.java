@@ -1,11 +1,11 @@
-package pl.jkanclerz.ecommerce.sales.reservation;
+package pl.mpyvovarov.ecommerce.sales.reservation;
 
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import pl.jkanclerz.ecommerce.sales.SalesFacade;
-import pl.jkanclerz.ecommerce.sales.cart.HashMapCartStorage;
-import pl.jkanclerz.ecommerce.sales.offering.OfferCalculator;
+import pl.mpyvovarov.ecommerce.sales.SalesFacade;
+import pl.mpyvovarov.ecommerce.sales.cart.HashMapCartStorage;
+import pl.mpyvovarov.ecommerce.sales.offering.OfferCalculator;
 
 import java.math.BigDecimal;
 import java.util.Optional;

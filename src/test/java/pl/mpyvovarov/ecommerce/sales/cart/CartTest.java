@@ -1,4 +1,4 @@
-package pl.jkanclerz.ecommerce.sales.cart;
+package pl.mpyvovarov.ecommerce.sales.cart;
 
 import org.junit.jupiter.api.Test;
 

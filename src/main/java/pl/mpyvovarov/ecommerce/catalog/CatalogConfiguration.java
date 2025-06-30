@@ -1,6 +1,5 @@
-package pl.jkanclerz.ecommerce.catalog;
+package pl.mpyvovarov.ecommerce.catalog;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.jdbc.core.JdbcTemplate;

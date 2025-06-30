@@ -1,4 +1,4 @@
-package pl.jkanclerz.creditcard;
+package pl.mpyvovarov.creditcard;
 
 public class CreditAlreadyAssignedException
     extends IllegalStateException {

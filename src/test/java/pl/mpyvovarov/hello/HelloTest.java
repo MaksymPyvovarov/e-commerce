@@ -1,10 +1,9 @@
-package pl.jkanclerz.hello;
+package pl.mpyvovarov.hello;
 
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
 
-import static org.junit.jupiter.api.Assertions.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class HelloTest {

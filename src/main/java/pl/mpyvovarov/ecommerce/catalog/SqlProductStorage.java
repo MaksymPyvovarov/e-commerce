@@ -1,7 +1,6 @@
-package pl.jkanclerz.ecommerce.catalog;
+package pl.mpyvovarov.ecommerce.catalog;
 
 import org.springframework.jdbc.core.JdbcTemplate;
-import org.springframework.jdbc.core.RowMapper;
 import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
 
 import java.util.HashMap;

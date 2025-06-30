@@ -1,4 +1,4 @@
-package pl.jkanclerz.ecommerce.catalog;
+package pl.mpyvovarov.ecommerce.catalog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

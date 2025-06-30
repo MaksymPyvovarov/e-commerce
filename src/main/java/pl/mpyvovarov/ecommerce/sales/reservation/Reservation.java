@@ -1,7 +1,7 @@
-package pl.jkanclerz.ecommerce.sales.reservation;
+package pl.mpyvovarov.ecommerce.sales.reservation;
 
-import pl.jkanclerz.ecommerce.sales.offering.Offer;
-import pl.jkanclerz.ecommerce.sales.payment.PaymentDetails;
+import pl.mpyvovarov.ecommerce.sales.offering.Offer;
+import pl.mpyvovarov.ecommerce.sales.payment.PaymentDetails;
 
 import java.math.BigDecimal;
 import java.time.Instant;

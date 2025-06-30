@@ -1,11 +1,7 @@
-package pl.jkanclerz.ecommerce;
+package pl.mpyvovarov.ecommerce;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.Bean;
-import pl.jkanclerz.ecommerce.catalog.ArrayListProductStorage;
-import pl.jkanclerz.ecommerce.catalog.Product;
-import pl.jkanclerz.ecommerce.catalog.ProductCatalog;
 
 @SpringBootApplication
 public class App {

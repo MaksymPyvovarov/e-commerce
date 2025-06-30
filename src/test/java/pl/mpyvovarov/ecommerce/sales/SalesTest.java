@@ -1,8 +1,7 @@
-package pl.jkanclerz.ecommerce.sales;
+package pl.mpyvovarov.ecommerce.sales;
 
 import org.junit.jupiter.api.Test;
-import pl.jkanclerz.ecommerce.sales.Offer;
-import pl.jkanclerz.ecommerce.sales.SalesFacade;
+import pl.mpyvovarov.ecommerce.sales.Offer;
 
 import java.math.BigDecimal;
 
